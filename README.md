@@ -25,7 +25,6 @@
 * [ℂ𝕣𝕖𝕕𝕚𝕥𝕤](#Credits)
 * [ℙ𝕠𝕨𝕖𝕣](#Power)
 * [ℝ𝕦𝕝𝕖𝕤](#TOS)
-* [𝕒𝕡𝕡𝕖𝕒𝕣𝕒𝕟𝕔𝕖](#Appearance)
 * [ℂ𝕠𝕟𝕥𝕒𝕔𝕥](#Contact)
 
 # README ♥️
@@ -56,10 +55,6 @@ node spike.js
 ```sh
 dandier (Owner Of This Tools.-.)
 ```
-
-# Appearance
-<img  src="https://github.com/dandiers/ddospanel/assets/61583533/dd7db5a0-320c-4759-8d92-d75dd3fd9ce6"></img>
-
 
 # Power
 <img src="https://progqr.com/Foto.jpg"></img>
