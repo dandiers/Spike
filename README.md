@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 Dandier DDoS Panel 🚀
+# 🚀 Dandier Spike DDoS 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
