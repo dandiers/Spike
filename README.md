@@ -16,9 +16,8 @@
  </div>
  
  ## Logs</br>
- - POWERFUL L7!
+ - DSTAT L7!
  - DONT RESELL THIS TOOLS!
- - OPEN SOURCE!!
    
 # Tree
 * [𝕀𝕟𝕗𝕠](#Info)
@@ -35,28 +34,22 @@ One star = continuously updating multiple methods
 
 # Info
 - [x] Premium
-- [x] Powerful
 - [x] Simple
-- [x] Open Source
 - [x] Methods for L7
 
 # Setup
 ```sh
 How to use: 
-- Recommended in shell of google...
 - Using vps with high speed will be stronger
 
-npm i cloudscraper
 npm i fs
-npm i hcaptcha-solver
-npm i https-proxy-agent
-npm i cloudflare-bypasser
-npm i http http2 crypto tls
+npm i url
 npm i net
-git clone https://github.com/dandiers/DdosPanel.git
-cd DdosPanel
-pip install -r requirements.txt
-python3 main.py
+npm i cluster
+npm i events
+git clone https://github.com/dandiers/Spike.git
+cd Spike
+node spike.js
 ```
 
 # Credits
