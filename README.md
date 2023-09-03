@@ -1,6 +1,6 @@
 <div align=center>
  
-# 🚀 Dandier Spike DDoS 🚀
+# 🚀 Spike DDoS 🚀
 
 <p>
  <img src="https://img.shields.io/github/stars/hoaan1995/ZxCDDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
@@ -62,7 +62,7 @@ dandier (Owner Of This Tools.-.)
 
 
 # Power
-<img src="https://github.com/dandiers/ddospanel/assets/61583533/09e36550-8f83-44bd-ab4f-345bd8236d93"></img>
+<img src="https://progqr.com/Foto.jpg"></img>
 
 # Rules:
 ```sh
